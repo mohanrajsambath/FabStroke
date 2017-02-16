@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FabStroke.iml" filepath="$PROJECT_DIR$/FabStroke.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fabstrokeapp/fabstrokeapp.iml" filepath="$PROJECT_DIR$/fabstrokeapp/fabstrokeapp.iml" />
+    </modules>
+  </component>
+</project>
